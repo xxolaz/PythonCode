@@ -1,0 +1,27 @@
+Enter a string: 
+cool
+List of Inputs:  ['cool']
+Enter a string: 
+even
+List of Inputs:  ['cool', 'even']
+Enter a string: 
+cooler
+List of Inputs:  ['cool', 'even', 'cooler']
+Enter a string: 
+school
+List of Inputs:  ['cool', 'even', 'cooler', 'school']
+Enter a string: 
+HELLO
+List of Inputs:  ['cool', 'even', 'cooler', 'school', 'hello']
+Enter a string: 
+APPLE
+List of Inputs:  ['cool', 'even', 'cooler', 'school', 'hello', 'apple']
+Enter a string: 
+hm
+List of Inputs:  ['cool', 'even', 'cooler', 'school', 'hello', 'apple', 'hm']
+Enter a string: 
+0
+
+List of Inputs:  ['cool', 'even', 'cooler', 'school', 'hello', 'apple', 'hm']
+The highest string is: school
+
