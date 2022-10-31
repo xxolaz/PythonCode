@@ -1,0 +1,8 @@
+Please Enter Data in the format, X-DSPAM-Confidence:0.4563
+Enter Data in Specific to the Example:
+X-DSPAM-Confidence:0.4563
+Input Accepted!
+
+0.4563
+
+

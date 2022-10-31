@@ -1,0 +1,39 @@
+If you had Overtime please type OTPay
+If you had no Overtime please type Pay
+
+
+Please Enter OTPay or Pay
+Type done to exit
+Pay
+
+
+Must have less than 40 Hours
+Enter Hours:
+32
+Enter Rate:
+20
+
+Hours Entered: 32 
+Rate Entered: 20 
+Your Pay: 640.0
+
+Please Enter OTPay or Pay
+Type done to exit
+OTPay
+
+
+Must have over 40 Hours
+Enter Hours:
+45
+Enter Rate:
+20
+
+Hours Entered: 45 
+Rate Entered: 20 
+Your Pay: 950.0
+
+Please Enter OTPay or Pay
+Type done to exit
+done
+
+You have now exited the program!
