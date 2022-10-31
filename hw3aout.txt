@@ -1,0 +1,51 @@
+If you had Overtime please type OTPay
+If you had no Overtime please type Pay
+Please Enter OTPay or Pay
+OTPay
+Must have over 40 Hours
+Enter Hours:
+45
+Enter Rate
+14.5
+Pay: 978.75
+Please Enter OTPay or Pay
+OTPay
+Must have over 40 Hours
+Enter Hours:
+46
+Enter Rate
+hr
+Please Enter a Number!
+Please Enter OTPay or Pay
+OTPay
+Must have over 40 Hours
+Enter Hours:
+ht
+Please Enter a Number!
+Please Enter OTPay or Pay
+
+If you had Overtime please type OTPay
+If you had no Overtime please type Pay
+Please Enter OTPay or Pay
+Pay
+Must have less than 40 Hours
+Enter Hours:
+15
+Enter Rate
+16.7
+Pay: 250.5
+Please Enter OTPay or Pay
+Pay
+Must have less than 40 Hours
+Enter Hours:
+hr
+Please Enter a Number!
+Please Enter OTPay or Pay
+Pay
+Must have less than 40 Hours
+Enter Hours:
+7
+Enter Rate
+hello
+Please Enter a Number!
+Please Enter OTPay or Pay

@@ -1,0 +1,5 @@
+Enter a Sentence (Only Strings Accepted): 
+Hello I have class then work at four today 
+
+['Hello', 'have', 'class', 'then', 'work', 'four', 'today']
+

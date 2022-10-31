@@ -1,0 +1,4 @@
+myString = 'Have a happy day'
+type(myString)
+
+dir(myString)

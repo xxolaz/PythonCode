@@ -1,0 +1,38 @@
+Files: hw6textfile.txt,hw6textfile2.txt
+Please Enter the Name of File from the list!
+hw6textfile.txt
+
+
+Line Count 6
+
+
+Line1: NUMBERS
+Line2: CODING
+Line3: SCHOOL
+Line4: WORDS TOOLS COMPUTER HOUSE DOG
+Line5: CHROME
+Line6: DISCORD MATH INFORMATICS
+
+C:\Users\patricja\OneDrive - Seton Hall University\projects\python\isci1117>hw6.py
+Files: hw6textfile.txt,hw6textfile2.txt
+Please Enter the Name of File from the list!
+6
+
+
+Invaild Input!
+Please Enter the Name of File from the list!
+word
+
+
+Invaild Input!
+Please Enter the Name of File from the list!
+hw6textfile2.txt
+
+
+Line Count 4
+
+
+Line1: CLASS
+Line2: SCHOOL
+Line3: MAJOR
+Line4: COMPUTER SCIENCE

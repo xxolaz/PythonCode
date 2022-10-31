@@ -1,0 +1,5 @@
+I set up my directory
+I installed Python
+I also installed Atom
+Now I am done!
+999

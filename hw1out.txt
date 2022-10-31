@@ -1,0 +1,5 @@
+Enter Hours:
+45.00
+Enter Rate:
+14.30
+Pay: 965.25

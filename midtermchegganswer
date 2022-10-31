@@ -1,0 +1,10 @@
+def main():
+  highest = ''
+  while True:
+    string = input('Enter a String: ').lower()
+    if string == '0':
+      break
+    if string > highest
+      highest = string
+
+  print('The Highest string is: ' + highest)
