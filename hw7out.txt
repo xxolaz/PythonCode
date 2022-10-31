@@ -1,0 +1,25 @@
+Check Expect 1 chop
+[4, 5, 6]
+None
+[5]
+Check Expect 2 chop
+[34, 8, 9, 10, -4, 6, 9]
+None
+[8, 9, 10, -4, 6]
+Check Expect 3 chop
+[]
+None
+[]
+Check Expect 4 chop
+['onlyone']
+None
+[]
+Check Expect 1 middle
+[4, 5, 6]
+[5]
+[4, 5, 6]
+Check Expect 2 middle
+[34, 8, 9, 10, -4, 6, 9]
+[8, 9, 10, -4, 6]
+[34, 8, 9, 10, -4, 6, 9]
+
